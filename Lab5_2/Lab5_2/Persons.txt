@@ -1,0 +1,3 @@
+Alan, 40, Male
+Kate, 23, Female
+Peter, 25, Male
